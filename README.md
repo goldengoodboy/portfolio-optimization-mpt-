@@ -45,8 +45,8 @@ Key insight: **Gold's minimal correlation with Bitcoin (0.130)** creates powerfu
 | **Validation** | Covariance matrix confirmed positive definite (eigenvalues > 0) ensuring mathematical validity |
 
 ## 📁 Repository Structure
-portfolio-optimization-mpt/
-├── portfolio_optimization.py
-├── efficient_frontier.png 
-├── requirements.txt        
-└── README.md
+portfolio-optimization-mpt/        
+├── portfolio_optimization.py     
+├── efficient_frontier.png      
+├── requirements.txt             
+└── README.md   
